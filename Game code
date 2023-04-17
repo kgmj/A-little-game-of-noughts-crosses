@@ -1,0 +1,2 @@
+c = "Hi"
+print c 
